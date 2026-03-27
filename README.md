@@ -49,7 +49,7 @@ python dl.py
 
 ## Status
 
-Working prototype, approximately `50%` complete.
+Working prototype, approximately `60%` complete.
 
 ## Future Work
 
